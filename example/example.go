@@ -1,7 +1,7 @@
 package main
 
 import (
-	i18n "github.com/fy976061258/gin-i18n"
+	i18n "github.com/fy976061258/gin-i18n/v1"
 	"github.com/gin-gonic/gin"
 	"golang.org/x/text/language"
 )

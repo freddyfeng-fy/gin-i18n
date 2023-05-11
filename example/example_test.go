@@ -5,7 +5,7 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	i18n "github.com/fy976061258/gin-i18n"
+	i18n "github.com/fy976061258/gin-i18n/v1"
 	"github.com/stretchr/testify/assert"
 	"golang.org/x/text/language"
 )
